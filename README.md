@@ -6,4 +6,3 @@
 
 # Deployed with :
 [![Deploy with Vercel](https://vercel.com/button)](https://pyscript-repl.vercel.app/)
-![GitHub Pages](https://github.com/TheSGJ/PyScript-ReplSite/actions/workflows/github-pages/badge.svg)
